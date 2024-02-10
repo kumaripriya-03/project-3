@@ -1,0 +1,63 @@
+body{
+    /* background-color: brown; */
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+div{
+    /* text-align: center; */
+    font-size: 20px;
+}
+  .logo {
+    text-decoration: none;
+    font-size: 24px;
+    color: black;
+    margin-top: 15px;
+    display: inline-block;
+    margin-left: 15px;
+  }
+   .container {
+    position: absolute;
+    z-index: 100;
+    top: 210px;
+    left: 34%;
+   }
+    
+   .header {
+    height: 65px;
+    background-color: #e5e5e5;
+    position: fixed;
+    width: 100%;
+   }
+button{
+    /* background-color: hotpink; */
+    width: 100px;
+    color: orangered;
+    padding: 15px;
+    margin: 10px;
+    border: none;
+    background: transparent;
+    font-size: 27px;
+    font-family: auto;
+}
+
+input{
+    width: 500px;
+    height: 45px;
+    border: 1px solid white;
+    background: transparent;
+    border-radius: 8px;
+}
+
+label {
+    color: wheat;
+}
+
+.image {
+width: 100%;
+max-height: 650px;
+background-image: url("https://www.xtrafondos.com/en/descargar.php?id=725&resolucion=1920x1080");
+}
